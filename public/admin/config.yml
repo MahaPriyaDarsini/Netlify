@@ -2,8 +2,7 @@ backend:
   name: github
   repo: https://github.com/MahaPriyaDarsini/Netlify
   branch: master # Branch to update (optional; defaults to master)/
-  base_url: https://reactNetlify.com
-  auth_endpoint: api/auth
+ 
 local_backend: true
 
 # These lines should *not* be indented
